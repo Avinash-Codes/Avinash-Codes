@@ -62,7 +62,6 @@
 
 ---
 
-### 🐍 Snake Animation:
 <div align="center">
 <img src="https://raw.githubusercontent.com/Avinash-codes/Avinash-codes/output/snake.svg" alt="Snake animation" />
 
