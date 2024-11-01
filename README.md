@@ -60,12 +60,9 @@
 
 ### 🌐 Connect with me:
 <div align="center">
-  <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube"/></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram"/></a>
-  <a href="https://twitch.tv" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" alt="Twitch"/></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord"/></a>
+  <a href="[https://instagram.com](https://www.instagram.com/avinash_coder?igsh=dGF0a2IybXNnd2tj)" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram"/></a>
   <a href="mailto:donotsmile9@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail"/></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/avinash-sharma-59406b280/)" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/></a>
 </div>
 
 ---
