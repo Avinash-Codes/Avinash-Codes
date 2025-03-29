@@ -9,7 +9,7 @@
   <p>🔭 Currently working on Connectify App</a></p>
   <p>🌱 Currently learning <strong>Jetpack Compose, Dagger Hilt, Advanced Kotlin, Firebase, DSA, and Competitive Programming</strong></p>
   <p>💬 Ask me about <strong>Android, Jetpack Compose, KMP, Firebase, API Integration, DSA, CP</strong></p>
-  <p>📫 Reach me at <strong>donotsmile9@gmail.com</strong></p>
+  <p>📫 Reach me at <strong>avinash.sharma.works@gmail.com</strong></p>
   <p>⚡ Fun fact: <strong>I think I’m funny—and my code agrees!</strong></p>
 </div>
 
