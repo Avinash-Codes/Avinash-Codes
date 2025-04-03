@@ -20,9 +20,12 @@
 </div>
 
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=avinash_codes&theme=dark)](https://git.io/streak-stats" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-lemon-one.vercel.app?user=avinash-codes&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ---
 
