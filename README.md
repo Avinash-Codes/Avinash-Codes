@@ -62,7 +62,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me :
 <div align="center">
   <a href="[https://instagram.com](https://www.instagram.com/avinash_coder?igsh=dGF0a2IybXNnd2tj)" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram"/></a>
   <a href="mailto:donotsmile9@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail"/></a>
