@@ -13,7 +13,7 @@
   <p>⚡ Fun fact: <strong>I think I’m funny—and my code agrees! </strong></p>
 </div>
 
-### 📊 My GitHub Stats:
+### 📊 My GitHub Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinash-codes&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-codes&layout=compact&theme=dracula&hide_border=false&hide=jupyter%20notebook&cache_seconds=3600" height="150" alt="Top Languages" />
