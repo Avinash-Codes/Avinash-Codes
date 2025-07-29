@@ -8,7 +8,7 @@
 <div align="center">
   <p>🔭 Currently working on JP Connect App</a></p>
   <p>🌱 Currently learning <strong>Jetpack Compose, KMP , Advanced Kotlin, Firebase, DSA, and Competitive Programming</strong></p>
-  <p>💬 Ask me about <strong>Android, Jetpack Compose, KMP, Firebase, API Integration, DSA, CP</strong></p>
+  <p>💬 Ask me about <strong>Android, DSA, CP, Jetpack Compose, KMP, Firebase, API Integration</strong></p>
   <p>📫 Reach me at <strong>avinash.sharma.works@gmail.com</strong></p>
   <p>⚡ Fun fact: <strong>I think I’m funny—and my code agrees! </strong></p>
 </div>
