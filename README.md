@@ -41,7 +41,7 @@
   
 ---
 
-## Hacktoberfest(25) Badges 🪶
+## Hacktoberfest(24 & 25) Badges 🪶
 [![An image of @avinashcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashcodes)](https://holopin.io/@avinashcodes)
 
 ---
